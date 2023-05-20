@@ -37,6 +37,7 @@ int main(int argc, char** argv) {
         cout << "Error: There are too much arguments";
         return 1;
     }
+    system("pause");
     return 0;
 }
 
