@@ -4,8 +4,7 @@
 using namespace std;
 using namespace filesystem;
 
-int main()
-{
+int main() {
     cout << "Hello World!\n";
     return 0;
 }
